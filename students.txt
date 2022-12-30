@@ -23,4 +23,5 @@
     https://github.com/jen4432
 11. Статкевич Захар Дмитриевич
     https://github.com/GabellaJhonson/operation-system
-
+12. Яцкевич Евгений Андреевич
+    github.com/jajac20jac/os
